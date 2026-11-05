@@ -1,4 +1,5 @@
 print("Hello")
 print("Temp")
-for i in range(5):
-    print(i)
+
+s = "AVinash"
+print(s[::-1])
