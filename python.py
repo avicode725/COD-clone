@@ -1,4 +1,3 @@
 for i in range(3):
-    print(i)
-
-print("Program Completed")
+    for j in range(i):
+        print("*")
