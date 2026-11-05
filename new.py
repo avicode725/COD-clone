@@ -1,4 +1,4 @@
 print("Hello")
 print("Temp")
-
-print(16)
+for i in range(5):
+    print(i)
