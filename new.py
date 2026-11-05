@@ -1,4 +1,5 @@
 print("Hello")
 print("Temp")
 
-print(16)
+s = "AVinash"
+print(s[::-1])
